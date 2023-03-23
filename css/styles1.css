@@ -1,0 +1,40 @@
+body{
+  background-image: url("../images1/ubereats.jpg");
+  background-size: cover;
+
+
+  font-family: UberMoveBold; src: url('fonts/uber-move-2-cufonfonts/UberMoveBold.otf');
+}
+h2{
+  color: #F5F5F5;
+}
+h1{
+
+  color: #F5F5F5;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+  font-size: 52px;
+  line-height: 64px;
+  margin-block-start: 0.67em;
+  margin-block-end: 0.67em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+.container-fluid{
+  padding: 2% 3%;
+}
+#address{
+  width: 600px;
+  height: 50px
+}
+#delivery-stat{
+  width: 200px;
+  height: 50px
+}
+p{
+  color: #F5F5F5;
+  margin-top: 15px;
+}
+a:link{
+  color: #F5F5F5;
+}
